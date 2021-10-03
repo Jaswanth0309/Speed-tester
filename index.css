@@ -1,0 +1,28 @@
+body{
+    background: silver url(./css\ bgm.jpg) repeat fixed;
+}
+img{
+    image-rendering:auto ;
+    margin-left: 40%;
+}
+h1{
+    color: chartreuse;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+span{
+    text-align: center;
+}
+ul li{
+    text-decoration: black;
+}
+a{
+    color: blue;
+    text-decoration-line: none;
+}
+button{
+    border: black  double ;
+    border-radius: 20rem;
+
+}
